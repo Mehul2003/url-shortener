@@ -1,0 +1,20 @@
+h1, h2 {
+    color: #fff;
+    text-align: center;
+    text-shadow:
+        0 0 7px #fff,
+        0 0 10px #fff,
+        0 0 21px #bc13fe,
+        0 0 42px #bc13fe,
+        0 0 82px #bc13fe,
+        0 0 92px #bc13fe;
+}
+
+h1 {
+    font-size: 15rem;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 5rem;
+}
